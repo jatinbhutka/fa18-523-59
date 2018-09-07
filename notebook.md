@@ -18,3 +18,4 @@ Week3: 3 Sep,2018 - 9 sep,2018
 
 * Yet to attend Lecture:
   - Created account on future systems to join for Project 553.
+  - Completed Plagiariasm Test.
