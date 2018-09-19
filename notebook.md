@@ -16,6 +16,19 @@ Week2: 27 Aug,2018 - 2 sep,2018
 Week3: 3 Sep,2018 - 9 sep,2018
 ================================
 
-* Yet to attend Lecture:
+* Attended Lecture:
   - Created account on future systems to join for Project 553.
   - Completed Plagiariasm Test.
+  
+  
+Week4: 10 Sep,2018 - 16 sep,2018
+================================
+* Attended Lecture:
+  - Installed jabref
+  - Started learning about big data technologies assigned to me.
+  - Requested pull request for assigned big data technology.
+
+
+Week5: 17 Sep,2018 - 23 sep,2018
+================================
+* Yet to attend class
