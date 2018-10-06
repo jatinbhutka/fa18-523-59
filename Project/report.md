@@ -44,4 +44,4 @@ sensitivity.
 
 **References**  
 [1] I-Cheng Yeh and Che-hui Lien, The comparisons of data mining techniques for the predictive
-accuracy of probability of default of credit card clients
+accuracy of probability of default of credit card clients.
