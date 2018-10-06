@@ -28,7 +28,8 @@ sensitivity.
 • Which features influence most to the default payments.
 • How this can help to minimize bank’s risk.
 • We will analyze data to answer more questions.
-4 Timeline
+
+**4 Timeline **
 • Data Pre-processing – we will be using python for this
 1
 • Exploratory Data Analysis
