@@ -29,18 +29,17 @@ sensitivity.
 * How this can help to minimize bank’s risk.
 * We will analyze data to answer more questions.
 
-**4 Timeline **
-• Data Pre-processing – we will be using python for this
-1
-• Exploratory Data Analysis
-• Data modelling
-1. k-means
-2. Logistic Regression
-3. Naive Bayes
-4. Artificial Neural Network
-• Modelling Analysis
-• Evaluation and Conclusion
-References
+**4 Timeline**
+* Data Pre-processing – we will be using python for this
+* Exploratory Data Analysis
+* Data modelling
+  * k-means
+  * Logistic Regression
+  * Naive Bayes
+  * Artificial Neural Network
+* Modelling Analysis
+* Evaluation and Conclusion
+
+**References**
 [1] I-Cheng Yeh and Che-hui Lien, The comparisons of data mining techniques for the predictive
 accuracy of probability of default of credit card clients
-2
