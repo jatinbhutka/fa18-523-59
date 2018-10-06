@@ -1,10 +1,11 @@
-Project Proposal
-#I523/E534: Big Data Application
+# Project Proposal 
+## I523/E534: Big Data Application
+### Fall 2018
 
-##Fall 2018
-##Jatin Bhutka (jdbhutka)
-##Uma B Kota (umabkota)
-## October 5, 2018
+###### Jatin Bhutka (jdbhutka)
+###### Uma B Kota (umabkota)
+
+###### October 5, 2018
 
 **1 Problem Statement**
 In 2006, Taiwan saw credit card debt crisis, the banks of Taiwan over issued credit cards in pursuit of
