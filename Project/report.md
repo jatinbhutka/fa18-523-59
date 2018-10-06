@@ -21,7 +21,7 @@ The Default of credit card clients is multivariate Data Set from UCI machine lea
 consists of 30,000 records with 23 features. The features includes amount of given credit, Sex,
 Education, Marital status, Age, History of past payments, amount of bill statements, amount paid.
 
-**3 Questions**  
+**3 Questions**
 * what is the best evaluation metric for the models and it’s precision, recall or specificity and
 sensitivity.
 * Which is the best model to predict the defaulters.
@@ -29,7 +29,7 @@ sensitivity.
 * How this can help to minimize bank’s risk.
 * We will analyze data to answer more questions.
 
-**4 Timeline**  
+**4 Timeline**
 * Data Pre-processing – we will be using python for this
 * Exploratory Data Analysis
 * Data modelling
