@@ -15,11 +15,13 @@ different statistical analyses, to help predict an individual customer’s credi
 analysis will help us better understand the route cause behind defaulting and also provide a better
 way to classify an applicant given his data.We’ll be working on different modelling techniques like
 k means, logistic regression, naive Bayes and artificial neural networks to get provide our solution.
-2 Data
+
+**2 Data **
 The Default of credit card clients is multivariate Data Set from UCI machine learning Repository.It
 consists of 30,000 records with 23 features. The features includes amount of given credit, Sex,
 Education, Marital status, Age, History of past payments, amount of bill statements, amount paid.
-3 Questions
+
+**3 Questions**
 • what is the best evaluation metric for the models and it’s precision, recall or specificity and
 sensitivity.
 • Which is the best model to predict the defaulters.
