@@ -8,6 +8,7 @@
 ###### October 5, 2018
 
 **1 Problem Statement**  
+  
 In 2006, Taiwan saw credit card debt crisis, the banks of Taiwan over issued credit cards in pursuit of
 increasing their market share. Also, many cardholders consumed more than their capacity thereby
 accumulating heavy debts. Utilizing this data, we aim to classify the defaulters by performing
@@ -17,6 +18,7 @@ way to classify an applicant given his data.We’ll be working on different mode
 k means, logistic regression, naive Bayes and artificial neural networks to get provide our solution.
 
 **2 Data**  
+  
 The Default of credit card clients is multivariate Data Set from UCI machine learning Repository.It
 consists of 30,000 records with 23 features. The features includes amount of given credit, Sex,
 Education, Marital status, Age, History of past payments, amount of bill statements, amount paid.
