@@ -31,4 +31,34 @@ Week4: 10 Sep,2018 - 16 sep,2018
 
 Week5: 17 Sep,2018 - 23 sep,2018
 ================================
-* Yet to attend class
+* Attended Lecture:
+  - Installed jabref
+
+
+Week6: 1 Oct,2018 - 7 Oct,2018
+================================
+* Attended Lecture:
+    - Shared project ideas.
+  
+  
+ Week7: 8 Oct,2018 - 14 Oct,2018
+================================
+* Fall break: No lecture
+
+  
+  
+ Week8: 15 Oct,2018 - 21 Oct,2018
+================================
+
+  
+  
+ Week9: 22 Oct,2018 - 28 Oct,2018
+================================
+
+  
+  
+  Week10: 29 Nov,2018 - 4 Nov,2018
+================================
+
+  
+  
