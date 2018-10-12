@@ -6,7 +6,7 @@ owner:
   community: "I523"
 
 technologies:
-  - url : https://github.com/cloudmesh/technologies/blob/master/chapters/tech/azure-sql.md
-  - url : https://github.com/cloudmesh/technologies/blob/master/chapters/tech/pybrain.md
-  - url : https://github.com/cloudmesh/technologies/blob/master/chapters/tech/libcloud.md
-  - url : https://github.com/cloudmesh/technologies/blob/master/chapters/tech/openstack-keystone.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/azure-sql.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/pybrain.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/libcloud.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/openstack-keystone.md
