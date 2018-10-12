@@ -46,10 +46,11 @@ Week6: 1 Oct,2018 - 7 Oct,2018
 * Fall break: No lecture
 
   
-  
  Week8: 15 Oct,2018 - 21 Oct,2018
 ================================
-
+* Attended Lecture:
+    - Project ideas discussed.
+    - Tech summaries discussion
   
   
  Week9: 22 Oct,2018 - 28 Oct,2018
