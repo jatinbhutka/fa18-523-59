@@ -9,11 +9,11 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/pybrain.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/libcloud.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/openstack-keystone.md
- paper:
+paper:
   - title:
   - url:
   - group: fa18-523-59 & fa18-523-71
- project:
+project:
   - title:
   - url:
   - group: fa18-523-59 & fa18-523-71
