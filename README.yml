@@ -10,8 +10,8 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/libcloud.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/openstack-keystone.md
 paper:
-  - title:
-  - url:
+  - title: Role of Big Data in IoT
+  - url: https://github.com/cloudmesh-community/fa18-523-71/blob/master/Paper/Paper.md
   - group: fa18-523-59 & fa18-523-71
 project:
   - title:
