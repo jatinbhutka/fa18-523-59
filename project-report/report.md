@@ -1,11 +1,16 @@
-# Project Proposal 
-## I523/E534: Big Data Application
-### Fall 2018
+# TITLE IS MISSING
 
-###### Jatin Bhutka (jdbhutka)
-###### Uma B Kota (umabkota)
+I523/E534: Big Data Application
 
-###### October 5, 2018
+Fall 2018
+
+Jatin Bhutka (jdbhutka)
+
+Uma B Kota (umabkota)
+
+October 5, 2018
+
+:o: section numbers will be automatically assigne. you do not use sections ...
 
 **1 Problem Statement**  
   
