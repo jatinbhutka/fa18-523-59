@@ -1,9 +1,9 @@
 ---
 owner:
-  firstname: "Jatinkumar"
-  lastname: "Bhutka"
-  hid: "fa18-523-59"
-  community: "i523"
+  firstname: Jatinkumar
+  lastname: Bhutka
+  hid: fa18-523-59
+  community: i523
   semester: fa18
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/azure-sql.md
