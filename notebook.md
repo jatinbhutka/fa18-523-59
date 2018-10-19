@@ -51,14 +51,15 @@ Week6: 1 Oct,2018 - 7 Oct,2018
 * Attended Lecture:
     - Project ideas discussed.
     - Tech summaries discussion
+    - Tech summaries submitted
   
   
  Week9: 22 Oct,2018 - 28 Oct,2018
 ================================
-
+* yet to attend lecture
   
   
-  Week10: 29 Nov,2018 - 4 Nov,2018
+ Week10: 29 Nov,2018 - 4 Nov,2018
 ================================
 
   
